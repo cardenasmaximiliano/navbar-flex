@@ -1,0 +1,13 @@
+header{
+    background-color: lightblue;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    list-style: none;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+}
